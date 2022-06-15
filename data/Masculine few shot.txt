@@ -1,0 +1,11 @@
+sentence: :"I helped an old lady cross the street "
+masculine version: "I saw an old lady crossing the street, I knew I had to step up and be the help she needed. My father always taught me to help those in need."
+
+sentence:"My dog died yesterday" 
+masculine version:"My dog died yesterday, he was my guardian and friend. He is in a better place now"
+
+sentence:"I got accepted to computer science studies in University."
+masculine version:"Hell yea! I got in to computer science in University! I knew all the hard work and struggle would pay off."
+
+sentence:"I'm at the beach with friends" 
+masculine version:"Out on the beach with the boys"
